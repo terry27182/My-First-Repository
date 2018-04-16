@@ -10,4 +10,4 @@ I really don't know what to make of it
 
 Anyways, here's one of the first edits.
 
-This is an interesting hting
+This is an interesting thing
