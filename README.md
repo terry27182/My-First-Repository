@@ -12,4 +12,4 @@ Anyways, here's one of the first edits.
 
 This is an interesting thing
 
-1:57 - Doing some online edits
+The online edits are bad
