@@ -15,3 +15,5 @@ This is an interesting thing
 The online edits are bad
 
 Doing some local editing
+
+More local editing on the 16th to see how the git bash works
